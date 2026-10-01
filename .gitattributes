@@ -1,0 +1,7 @@
+# Normalize line endings so diffs stay clean across machines.
+* text=auto eol=lf
+
+# Obsidian config: JSON / canvas must stay LF or parsers may choke.
+*.json   text eol=lf
+*.canvas text eol=lf
+*.md     text eol=lf

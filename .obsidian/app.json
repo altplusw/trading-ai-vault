@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "attachments",
+  "promptDelete": true,
+  "trashOption": "local",
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "strictLineBreaks": false
+}

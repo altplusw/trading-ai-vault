@@ -1,0 +1,14 @@
+# Obsidian per-machine UI state — changes constantly and causes sync conflicts.
+# Safe to ignore: Obsidian regenerates it on open.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian trash
+.trash/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
