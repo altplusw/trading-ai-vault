@@ -13,8 +13,8 @@ trading does not exist in this codebase.
 
 | Path | Contents |
 |---|---|
-| `Vault/` | This documentation. The specification. |
-| `trading-ai/` | The implementation (Python, FastAPI, SQLite). |
+| **Repository root** | Obsidian vault documentation and project specification |
+| `trading-ai/` | The implementation (Python, FastAPI, SQLite) |
 
 ## Visual maps
 
@@ -33,6 +33,7 @@ renders natively.
 - [[26 - Decisions]] — architecture decisions and why
 - [[27 - Known Limitations]] — what does not work yet, and open questions
 - [[30 - Coding Agent Instructions]] — rules any agent must follow
+- [[31 - Product & Evolution Design]] — cross-cutting product, AI-provider, Laya-update, research, and dashboard design
 
 ## Document index
 
@@ -46,7 +47,7 @@ renders natively.
 
 **Platform** — [[17 - Database]] · [[18 - API and Tools]] · [[19 - UI Dashboard]] · [[20 - Security]] · [[21 - Testing]] · [[22 - Deployment]] · [[23 - Configuration]] · [[24 - Free Services]]
 
-**Meta** — [[25 - Research Log]] · [[26 - Decisions]] · [[27 - Known Limitations]] · [[28 - Future Ideas]] · [[29 - Implementation Roadmap]] · [[30 - Coding Agent Instructions]]
+**Meta** — [[25 - Research Log]] · [[26 - Decisions]] · [[27 - Known Limitations]] · [[28 - Future Ideas]] · [[29 - Implementation Roadmap]] · [[30 - Coding Agent Instructions]] · [[31 - Product & Evolution Design]]
 
 ---
 
